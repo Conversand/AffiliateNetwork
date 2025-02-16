@@ -9,12 +9,12 @@ Conversand is built for affiliates looking to scale their earnings with reliable
 ### ✅ Wide Selection of Offers
 - **Global reach** – Offers optimized for multiple GEOs.
 - **Top-performing verticals:**
-- Dating Affiliate
-- VOD Affiliate
-- E-commerce Affiliate
-- Nutra Affiliate
-- Online Games (MMO) Affiliate
-- Sweepstakes Affiliate
+Dating Affiliate
+VOD Affiliate
+E-commerce Affiliate
+Nutra Affiliate
+Online Games (MMO) Affiliate
+Sweepstakes Affiliate
 
 ### 💰 Competitive Payouts
 - CPA, CPL, CPC, CPS, and CPI models with industry-leading rates.
